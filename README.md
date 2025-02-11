@@ -18,10 +18,3 @@ Requisiti
 ```sh
 git clone https://github.com/ElsyPedraza/library.git
 cd library
-
-## Importazione del Database
-
-Dopo aver clonato il progetto, importa il database con:
-
-```sh
-mysql -u root -p  < database/dump/database_dump.sql
